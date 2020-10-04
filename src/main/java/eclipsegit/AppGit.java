@@ -6,6 +6,7 @@ public class AppGit {
 		System.out.println("第一次从EClipse项目提交到GitHub");
 		System.out.println("Github修改提交");
 		System.out.println("本地仓库修改提交");
+		System.out.println("本地仓库修改提交1");
 	}
 
 }
